@@ -1,0 +1,1568 @@
+fileFormatVersion: 2
+guid: fb4f91a40efa0ee4d8213c50da9c3373
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5277045759434392382
+    second: Live events - Tools-windows 1_0
+  - first:
+      213: -1725937421160323143
+    second: Live events - Tools-windows 1_1
+  - first:
+      213: -5704568209700370426
+    second: Live events - Tools-windows 1_2
+  - first:
+      213: 131003450418418390
+    second: Live events - Tools-windows 1_3
+  - first:
+      213: 7063689804531309048
+    second: Live events - Tools-windows 1_4
+  - first:
+      213: 8344993290466746096
+    second: Live events - Tools-windows 1_5
+  - first:
+      213: -7077220463957597729
+    second: Live events - Tools-windows 1_6
+  - first:
+      213: -2148129412777589790
+    second: Live events - Tools-windows 1_7
+  - first:
+      213: 8226299854238990830
+    second: Live events - Tools-windows 1_8
+  - first:
+      213: -5083532092773640055
+    second: Live events - Tools-windows 1_9
+  - first:
+      213: 1054308805132705473
+    second: Live events - Tools-windows 1_10
+  - first:
+      213: 1143056933660487094
+    second: Live events - Tools-windows 1_11
+  - first:
+      213: -4945824161843848954
+    second: Live events - Tools-windows 1_12
+  - first:
+      213: 1672886572478928666
+    second: Live events - Tools-windows 1_13
+  - first:
+      213: 3094406714449536822
+    second: Live events - Tools-windows 1_14
+  - first:
+      213: -2650013659337349363
+    second: Live events - Tools-windows 1_15
+  - first:
+      213: -7028510067048811190
+    second: Live events - Tools-windows 1_16
+  - first:
+      213: -373756859264611549
+    second: Live events - Tools-windows 1_17
+  - first:
+      213: -1105468264668362253
+    second: Live events - Tools-windows 1_18
+  - first:
+      213: -3065068463617964716
+    second: Live events - Tools-windows 1_19
+  - first:
+      213: -491259710310064206
+    second: Live events - Tools-windows 1_20
+  - first:
+      213: -2577596197503068735
+    second: Live events - Tools-windows 1_21
+  - first:
+      213: -2298405373250661730
+    second: Live events - Tools-windows 1_22
+  - first:
+      213: 7125037257818868978
+    second: Live events - Tools-windows 1_23
+  - first:
+      213: -70082277887977215
+    second: Live events - Tools-windows 1_24
+  - first:
+      213: 1958728203445210268
+    second: Live events - Tools-windows 1_25
+  - first:
+      213: -4839059883016369346
+    second: Live events - Tools-windows 1_26
+  - first:
+      213: 8427661553247998629
+    second: Live events - Tools-windows 1_27
+  - first:
+      213: 423977955812742884
+    second: Live events - Tools-windows 1_28
+  - first:
+      213: 6929854640916390117
+    second: Live events - Tools-windows 1_29
+  - first:
+      213: -1003030557995733732
+    second: Live events - Tools-windows 1_30
+  - first:
+      213: 2078115429012344315
+    second: Live events - Tools-windows 1_31
+  - first:
+      213: -2674953763594519059
+    second: Live events - Tools-windows 1_32
+  - first:
+      213: 4726842984000956197
+    second: Live events - Tools-windows 1_33
+  - first:
+      213: 4781443836222832416
+    second: Live events - Tools-windows 1_34
+  - first:
+      213: -8585439059932761544
+    second: Live events - Tools-windows 1_35
+  - first:
+      213: -7655466743985000834
+    second: Live events - Tools-windows 1_36
+  - first:
+      213: 1402509999199883568
+    second: Live events - Tools-windows 1_37
+  - first:
+      213: 1830685774273201576
+    second: Live events - Tools-windows 1_38
+  - first:
+      213: -6575265440253901225
+    second: Live events - Tools-windows 1_39
+  - first:
+      213: 671363959250241402
+    second: Live events - Tools-windows 1_40
+  - first:
+      213: -6376496514978989762
+    second: Live events - Tools-windows 1_41
+  - first:
+      213: 8593153041221379443
+    second: Live events - Tools-windows 1_42
+  - first:
+      213: -4677978352391746051
+    second: Live events - Tools-windows 1_43
+  - first:
+      213: -2448047124428977728
+    second: Live events - Tools-windows 1_44
+  - first:
+      213: 703366158627487914
+    second: Live events - Tools-windows 1_45
+  - first:
+      213: -3114765663127844863
+    second: Live events - Tools-windows 1_46
+  - first:
+      213: 1425380677385398529
+    second: Live events - Tools-windows 1_47
+  - first:
+      213: -1684437167316457538
+    second: Live events - Tools-windows 1_48
+  - first:
+      213: -1069056493215893140
+    second: Live events - Tools-windows 1_49
+  - first:
+      213: 5931624591894051613
+    second: Live events - Tools-windows 1_50
+  - first:
+      213: 6079210040186463016
+    second: Live events - Tools-windows 1_51
+  - first:
+      213: 3014496820146835074
+    second: Live events - Tools-windows 1_52
+  - first:
+      213: 4675967760909503859
+    second: Live events - Tools-windows 1_53
+  - first:
+      213: 6178467177863819014
+    second: Live events - Tools-windows 1_54
+  - first:
+      213: -4062467073164357329
+    second: Live events - Tools-windows 1_55
+  - first:
+      213: -4536071383011259747
+    second: Live events - Tools-windows 1_56
+  - first:
+      213: -4346757110215920417
+    second: Live events - Tools-windows 1_57
+  - first:
+      213: 2128197917642744506
+    second: Live events - Tools-windows 1_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5446
+        width: 837
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e338192c825db3940800000000000000
+      internalID: 5277045759434392382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_1
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 5446
+        width: 838
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76f235f0d3c08e0800000000000000
+      internalID: -1725937421160323143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_2
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 5446
+        width: 834
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608c2d7ff6d45d0b0800000000000000
+      internalID: -5704568209700370426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_3
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 5446
+        width: 837
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d25a8ea1fa61d100800000000000000
+      internalID: 131003450418418390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4349
+        width: 837
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f913a2c374470260800000000000000
+      internalID: 7063689804531309048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_5
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 4349
+        width: 838
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fed94b1f2f5fc370800000000000000
+      internalID: 8344993290466746096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_6
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 4349
+        width: 834
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1aea81c79a8cd90800000000000000
+      internalID: -7077220463957597729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_7
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 4349
+        width: 837
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3c2db2eaf4032e0800000000000000
+      internalID: -2148129412777589790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3990
+        width: 246
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee143c3f120b92270800000000000000
+      internalID: 8226299854238990830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_9
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3990
+        width: 246
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988ddedce7aa379b0800000000000000
+      internalID: -5083532092773640055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_10
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 3990
+        width: 246
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce5085b548a1ae00800000000000000
+      internalID: 1054308805132705473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_11
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 3990
+        width: 246
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd61e89934fcdf00800000000000000
+      internalID: 1143056933660487094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_12
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 3979
+        width: 243
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609d0cff027ec5bb0800000000000000
+      internalID: -4945824161843848954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_13
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 3979
+        width: 243
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17902e6979473710800000000000000
+      internalID: 1672886572478928666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_14
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 3979
+        width: 243
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637295d038a81fa20800000000000000
+      internalID: 3094406714449536822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_15
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 3979
+        width: 246
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07a3410e92493bd0800000000000000
+      internalID: -2650013659337349363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3554
+        width: 246
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a457c492557b57e90800000000000000
+      internalID: -7028510067048811190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3554
+        width: 246
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bca23ed1620daf0800000000000000
+      internalID: -373756859264611549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_18
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 3554
+        width: 246
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f989f5687698a0f0800000000000000
+      internalID: -1105468264668362253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_19
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 3630
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4558cc5c870b675d0800000000000000
+      internalID: -3065068463617964716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_20
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 3630
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfd18275e1be29f0800000000000000
+      internalID: -491259710310064206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_21
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 3630
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c59e614ae98a3cd0800000000000000
+      internalID: -2577596197503068735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_22
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 3630
+        width: 246
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e929b819d7c6a10e0800000000000000
+      internalID: -2298405373250661730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3119
+        width: 246
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc87bbc2a731e260800000000000000
+      internalID: 7125037257818868978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_24
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3119
+        width: 246
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109df612a84070ff0800000000000000
+      internalID: -70082277887977215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_25
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 3125
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c04e95cecce2b10800000000000000
+      internalID: 1958728203445210268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_26
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3125
+        width: 245
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b47f1cca438dcb0800000000000000
+      internalID: -4839059883016369346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_27
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 3125
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a25090f78115f470800000000000000
+      internalID: 8427661553247998629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_28
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 3278
+        width: 246
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e690d854b542e500800000000000000
+      internalID: 423977955812742884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2815
+        width: 476
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0e9e8741acb2060800000000000000
+      internalID: 6929854640916390117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_30
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2815
+        width: 1125
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d6dc395058412f0800000000000000
+      internalID: -1003030557995733732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_31
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 2917
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd0a8ce8f2f6dc10800000000000000
+      internalID: 2078115429012344315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_32
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 2917
+        width: 245
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedba5a79b7a0ead0800000000000000
+      internalID: -2674953763594519059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_33
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 2917
+        width: 246
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527ac6a66ae199140800000000000000
+      internalID: 4726842984000956197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_34
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 2917
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ffa8bf5d91b5240800000000000000
+      internalID: 4781443836222832416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2473
+        width: 2570
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832b1ff99a46ad880800000000000000
+      internalID: -8585439059932761544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_36
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 155
+        width: 1056
+        height: 2567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e25f68e8152c590800000000000000
+      internalID: -7655466743985000834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2284
+        width: 2570
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0311e38d967b67310800000000000000
+      internalID: 1402509999199883568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2137
+        width: 914
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a54ae62307e76910800000000000000
+      internalID: 1830685774273201576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_39
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2044
+        width: 914
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75683c95be6ffb4a0800000000000000
+      internalID: -6575265440253901225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1443
+        width: 383
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a774c12c6f9215900800000000000000
+      internalID: 671363959250241402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_41
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1434
+        width: 492
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39392924322287a0800000000000000
+      internalID: -6376496514978989762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_42
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1437
+        width: 488
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375619a9923014770800000000000000
+      internalID: 8593153041221379443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_43
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1597
+        width: 368
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd09b6397b741fb0800000000000000
+      internalID: -4677978352391746051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_44
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 1250
+        width: 176
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c98ef25c1ac60ed0800000000000000
+      internalID: -2448047124428977728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_45
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 836
+        width: 122
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0c5007bcbd2c900800000000000000
+      internalID: 703366158627487914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 892
+        width: 281
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1084ea2d12126c4d0800000000000000
+      internalID: -3114765663127844863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_47
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 932
+        width: 265
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10923419c28f7c310800000000000000
+      internalID: 1425380677385398529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_48
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 932
+        width: 264
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb723a3225daf98e0800000000000000
+      internalID: -1684437167316457538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_49
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1005
+        width: 211
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ba0598c2f921f0800000000000000
+      internalID: -1069056493215893140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_50
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1005
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bf0d4a32d515250800000000000000
+      internalID: 5931624591894051613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_51
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1005
+        width: 211
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8236d409251bd5450800000000000000
+      internalID: 6079210040186463016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_52
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 1005
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e856de2e4a5d920800000000000000
+      internalID: 3014496820146835074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_53
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 973
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d803a77ef54e040800000000000000
+      internalID: 4675967760909503859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 836
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fabf0d9235eb550800000000000000
+      internalID: 6178467177863819014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_55
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 788
+        width: 211
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21515888b73f97c0800000000000000
+      internalID: -4062467073164357329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_56
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 788
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a8ccb3c13ac01c0800000000000000
+      internalID: -4536071383011259747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_57
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 789
+        width: 211
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd43da830773da3c0800000000000000
+      internalID: -4346757110215920417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Live events - Tools-windows 1_58
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 788
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab262dcfab0e88d10800000000000000
+      internalID: 2128197917642744506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e7e41d0c359c0b14e86054cd3d45a21a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
