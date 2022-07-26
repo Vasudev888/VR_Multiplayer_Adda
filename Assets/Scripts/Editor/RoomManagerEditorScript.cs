@@ -11,9 +11,14 @@ public class RoomManagerEditorScript : Editor
 
         RoomManager roomManager = (RoomManager)target;
 
-        if(GUILayout.Button("Join Random Room"))
+        if(GUILayout.Button("Join PlayArea Room"))
         {
-            roomManager.JoinRandomRoom();
+            roomManager.OnEnteredButtonClicked_PlayArea();
+        }
+
+        if (GUILayout.Button("Join Outdoor Room"))
+        {
+            roomManager.OnEnteredButtonClicked_Outdoor();
         }
     }
 }

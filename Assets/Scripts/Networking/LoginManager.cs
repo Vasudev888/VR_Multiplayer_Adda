@@ -9,11 +9,6 @@ public class LoginManager : MonoBehaviourPunCallbacks
 
     #region Unity Methdods
 
-    private void Start()
-    {
-        
-    }
-
     #endregion
 
 
